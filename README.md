@@ -38,7 +38,7 @@ To set up this project on your local machine, follow these steps:
 
 Once Gradle sync is complete, you can build and run the project using the built-in emulator or a physical device.
 
-##Usage
+## Usage
 
 **Run the Application:**
         Connect an Android device or use an emulator.
@@ -74,6 +74,6 @@ Once Gradle sync is complete, you can build and run the project using the built-
             .show();
 ```
 
-##License
+## License
 
 This project is licensed under the GNU General Public License (GPL). 
