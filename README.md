@@ -22,16 +22,21 @@ To set up this project on your local machine, follow these steps:
    ```bash
    git clone https://github.com/rahukettu/your-repository.git
 
-   Open the project in Android Studio:
+2. **Open the project in Android Studio:**
+
+```bash
         Launch Android Studio.
         Select "Open an Existing Project."
         Navigate to the cloned repository and open it.
 
-    Sync Gradle:
+3. **Sync Gradle:**
+
+```bash
         Android Studio will prompt you to sync Gradle files. Click "Sync Now" to resolve all dependencies.
 
-    Build and Run:
-        Once Gradle sync is complete, you can build and run the project using the built-in emulator or a physical device.
+4. **Build and Run:**
+```bash
+Once Gradle sync is complete, you can build and run the project using the built-in emulator or a physical device.
 
 Usage
 
