@@ -75,4 +75,5 @@ Once Gradle sync is complete, you can build and run the project using the built-
 ```
 
 ##License
+
 This project is licensed under the GNU General Public License (GPL). 
