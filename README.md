@@ -72,9 +72,7 @@ Once Gradle sync is complete, you can build and run the project using the built-
             })
             .setIcon(android.R.drawable.ic_dialog_alert)
             .show();
+```
 
 ##License
 This project is licensed under the GNU General Public License (GPL). 
-
-
-
